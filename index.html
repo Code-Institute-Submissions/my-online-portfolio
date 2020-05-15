@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css" type="text/css" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
@@ -12,7 +15,7 @@
     <title>My Portfolio</title>
 
 </head>
-<body>
+<body data-spy="scroll" data-target=".navbar">
  <!---NAVBAR-->
      <div id="header">
         <nav class="navbar navbar-expand-sm navbar-dark bg-dark fixed-top">
@@ -23,7 +26,7 @@
            <a href="#" class="navbar-brand"><h3>Portfolio</h3></a>
            <div class="collapse navbar-collapse" id="Navbar">
               <ul class="navbar-nav ml-auto"> 
-                <li class="nav-item"> <a href="#" class="nav-link">About me </a> </li> 
+                <li class="nav-item"> <a href="#About" class="nav-link">About me </a> </li> 
                 <li class="nav-item"> <a href="#" class="nav-link">My Work </a> </li> 
                 <li class="nav-item"> <a href="#" class="nav-link">My Education </a> </li> 
                 <li class="nav-item"> <a href="#" class="nav-link"> Contact </a> </li> 
@@ -33,23 +36,23 @@
         </nav>
      </div>
 
-</body>
-</html>
 
-<!-------Logo------>
+                         <!-------Logo------>
 <div id="logo"> </div>
 
-                         <!-------About me------>
+                             <!-------About me------>
+ <div id="About">                            
+  <div class="container">                       
    <div class="row">
       <div class="col">
          <div id="AboutData">
             <div class="card bg-white">
                <div class="card-title my-5">
                   <div class="media">
-                     <img src="img/person2.jp" width="250" height="250" class="img-fluid rounded-top mx-5 d-none d-lg-block">
+                     <img src="assets/images/shuaib.jpg" width="250" height="250" class="img-fluid rounded-top mx-5 d-none d-lg-block">
                         <div class="media-body">
-                           <h3 class="display-4 ml-5">I'm Shuaib Azam</h3>
-                             <p class="text-muted ml-5">Programer and Trader</p>
+                           <h3 class="display-4 ml-5">Shuaib Azam</h3>
+                             <p class="text-muted ml-5">Programer & Trader</p>
                              <div class="container">
                                 <table class="table table-responsive ml-4"> 
                                      <tr> 
@@ -58,9 +61,9 @@
                                         <td>25</td>
                                      </tr>
                                         <tr> 
-                                        <td class="text-muted">Website</td>
+                                        <td class="text-muted">Online Resume</td>
                                         <td>:</td>
-                                        <td>https://shazam1995.github.io/my-online-portfolio/</td>
+                                        <td><a href="https://shazam1995.github.io/Online-Resume//index.html" target="_blank">https://shazam1995.github.io/Online-Resume//index.html</a></td>
                                      </tr>
                                         <tr> 
                                         <td class="text-muted">Email</td>
@@ -76,11 +79,30 @@
                              </div>
                          </div> 
                      </div>
-                 </div>             
+                 </div>   
+                     <div class="card-footer bg-danger">
+                     <a href="#"><i class="fa fa-instagram fa-2x mx-3"></i></a>
+                     <a href="#"><i class="fa fa-facebook fa-2x mx-3"></i></a>
+                     <a href="http://linkedin.com/in/shuaibazam" target="_blank"><i class="fa fa-linkedin fa-2x mx-3"></i></a>
+                     <a href="#"><i class="fa fa-github fa-2x mx-3"></i></a>
+                     </div>              
             </div>
          </div> 
      </div> 
-
-                            
+   </div>  
+<div class="conatiner mt-5">
+   <div class="row">
+      <div class="col">
+      <span class="bg-danger text-white">About Me</span><hr class="bg-danger">
+          <p class="lead text-justify">I garduated in September 2019 as a Mechanical engineer hoping that after i would secure a job. This was not the case so i was quite sad about spedding my college years and university years as an engineer and no company out ther was willing to give me a chance. 
+          I then sat and thought about what i should do, i thought to myslef what was the best thing i had done withinn my engineering degree. 
+          The answer was straight foward which was Coding. After research i liked the idea of software devlopment and decided to take on thsi diploma which i really am enjoying more than anything i did in univetity other than the coding.  </p>
+  </div>       
+      </div>
+   </div>
+  </div>  
+</div>  
+</body>
+</html>                                
                        
 
