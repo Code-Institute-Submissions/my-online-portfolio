@@ -20,8 +20,20 @@ body {
     margin-top: -200px;
 }
 
-#About .fa {
-    color: #fff;
+#About .fa-facebook {
+    color: #3b5998;
+}
+
+#About .fa-linkedin {
+    color: #0072b1;
+}
+
+#About .fa-instagram {
+    color: #fb3958;
+}
+
+#About .fa-github {
+    color: white;
 }
 
 #About span {
