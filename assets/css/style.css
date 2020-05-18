@@ -1,16 +1,17 @@
 
-
 body {
-    background-color:#fff;
+    font-family: monospace, sans-serif;
+    background-color: whitesmoke;
 }
 
 #header a:hover {
-    color: #fff;
+    color: #ccc;
 }
 
+
 #logo {
-    background: url("../images/pogram.jpg");
-    background-size: 100%;
+    background: url("../images/program.jpg");
+    background-size: 5%;
     background-repeat: none;
     min-height: 500px;
 }
@@ -52,7 +53,7 @@ body {
 
 #Projects .card {
     border-top: 05px;
-    border-color: #fff;
+   
 }
 
 #Contact span {
