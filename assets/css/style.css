@@ -1,6 +1,6 @@
 
 body {
-    font-family: monospace, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
     background-color: whitesmoke;
 }
 
@@ -8,48 +8,59 @@ body {
     color: #ccc;
 }
 
-
-#logo {
-    background: url("../images/program.jpg");
-    background-size: 5%;
-    background-repeat: none;
-    min-height: 500px;
+#header nav {
+    background-color: rgb(84, 85, 180);
 }
 
-#About {
-    margin-top: -200px;
+#about {
+    margin-top: 15%;
 }
 
-#About .fa-facebook {
+#about .fa-facebook {
     color: #3b5998;
 }
 
-#About .fa-linkedin {
+#about .fa-linkedin {
     color: #0072b1;
 }
 
-#About .fa-instagram {
+#about .fa-instagram {
     color: #fb3958;
 }
 
-#About .fa-github {
+#about .fa-github {
     color: white;
 }
 
-#About span {
+#about span {
     padding: 10px 20px 10px 20px;
 }
 
-#About hr {
+#about hr {
     border-width: 2px;
     margin-top: 06px;
 }
 
-#Skills span {
+#about h1 {
+    padding-top: 3%; 
+}
+
+#skills .card {
+    padding-bottom:3%;
+}
+
+skills {
+    background-image: url("../images/program.jpg"); 
+    background-size: 5%;
+    background-repeat: none;
+    min-height: 500px;
+    }
+
+#skills span {
      padding: 10px 20px 10px 20px;
 }
 
-#Skills hr {
+#skills hr {
     border-width: 2px;
     margin-top:06px;
 }
@@ -67,6 +78,13 @@ body {
     border-top: 05px;
    
 }
+
+Contact {
+    background-image: url("../images/program.jpg"); 
+    background-size: 5%;
+    background-repeat: none;
+    min-height: 500px;
+    }
 
 #Contact span {
     padding: 10px 20px 10px 20px;
