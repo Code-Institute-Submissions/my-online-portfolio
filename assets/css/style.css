@@ -1,8 +1,7 @@
 
 
 body {
-    background-color: #ccc;
-    height:100vh;
+    background-color:#fff;
 }
 
 #header a:hover {
@@ -10,7 +9,7 @@ body {
 }
 
 #logo {
-    background: url("../images/plane.jpg");
+    background: url("../images/pogram.jpg");
     background-size: 100%;
     background-repeat: none;
     min-height: 500px;
