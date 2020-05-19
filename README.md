@@ -59,7 +59,7 @@ https://mdbootstrap.com/docs/jquery/navigation/footer/
 
 ## Acknowledgements
 
-* I kept my motivation up by watching and entrepreneur
+* I kept my motivation up by watching this entrepreneur, his name is GrayVee.
 https://www.youtube.com/watch?v=ThNAzk43x0g&t=4s
 
 
