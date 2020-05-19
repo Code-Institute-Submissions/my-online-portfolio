@@ -4,7 +4,7 @@
 
 # Table of Contents
 
-1. [My first title](#Introduction)
+1. [Introduction]
 2. [My second title](#my-second-title)
 
 
