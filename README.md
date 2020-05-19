@@ -1,3 +1,4 @@
+
 # User Centric Front-End Development Milestone Project 1 -Online Portfolio
 
 ## Introduction 
@@ -6,5 +7,10 @@ Hi i'm Shuaib, a person who has massive goals and will always be a student and i
 
 ## UX
 
-This is my first website and i thought "what a good idea it would be to create my first website as an online portfolio". So this is a webpage that will showcase my skills, my education and my projects. This website will be updated regularly and improved always alongside depending on the skill level that i'm at. 
+This is my first website and i thought "what a good idea it would be to create my first website as an online portfolio". So this is a webpage that will showcase my skills, my education and my projects to future employers. This website will be updated regularly and improved always depending on the skill level that i'm at. 
 
+## Features 
+
+*HTML
+*CSS
+*BootStrap
