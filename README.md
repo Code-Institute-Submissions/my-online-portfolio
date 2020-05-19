@@ -48,6 +48,18 @@ After reviewing myself below are some key points of my success in completing the
 
 #### Content 
 
+* The layout wasn't copied but is similar to the one in this youtube clip however the text is diffrent. 
+https://www.youtube.com/watch?v=ngcRor6TQRw&t=2781s
 
+* I copied the NAVBAR from BootStrap, however i changed the position.
+https://getbootstrap.com/docs/4.0/components/navbar/
+
+* I copied the footer from BootStrap 
+https://mdbootstrap.com/docs/jquery/navigation/footer/
+
+## Acknowledgements
+
+* I kept my motivation up by watching and entrepreneur
+https://www.youtube.com/watch?v=ThNAzk43x0g&t=4s
 
 
