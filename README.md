@@ -14,6 +14,12 @@ I created the basic sturcture within the HTML document by using **!TAB**. I then
 
 I had a meeting with my mentor and we dicussed the layout of my document. I started with the **NAVBAR** and used BootStrap to help me with this.I wanted a scroling webpage because it will be easy to use. I then broke my HTML document into four sections which are my headings **About, Skills, Projects,** and **Contacts**.
 
+From watching a few youtube videos i got an idea of what an online porfolio should look like and started my About me section. I decided to create **class=card** and start styling it with what would look good. I kept the **card** class consistent througout the other sections which made it eaiser because i just copied and pasted. 
+
+Each section had a **ID class** of its section name, first reason was so it would be easy to read and second was of course to syle the ID wthin the CSS document. I kept this consistent as well. 
+
+Lastly I completed a footer which i got help with from BootStrap.
+
 ## Features 
 
 ## Technologies 
