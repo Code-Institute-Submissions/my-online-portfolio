@@ -13,10 +13,10 @@ This is my first ever website and i thought "what a good idea it would be to cre
 ## Features 
 
 ## Technologies 
-I basically used **everything** that i was taught in the videos and nothing more. The following is what technologies i used and also will dicuss how i impletemnted them on making my very first webpage. 
+I basically used **everything** that was taught in the videos and nothing more. The following is what technologies was used and also will dicuss how i impletemnted them on making my very first webpage. 
 
 * **HTML & CSS:** I used these langusges for the syling of my website.
-* **JavaScript & BootStrap:** The navigation menu and the hover effects on the project was completed with the help of BootStrap.     JavaScript wasn't used directly, what i mean by this is that the JavaScript i used came directly from BootStrap helping me with the code and not me coding with JavaScript.
+* **JavaScript & BootStrap:** The navigation menu and the hover effects on the project was completed with the help of BootStrap.     JavaScript wasn't used directly, what i mean by this is that the JavaScript i used came directly from me copying BootStrap  and not me coding with JavaScript.
 
 * **GitHub:** This is used to store my code in a safe place. The method is simple and easy. 
     1. **git add . or gitt add (file name)** depending on what you want to send. 
