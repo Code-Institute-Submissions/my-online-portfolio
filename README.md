@@ -8,6 +8,9 @@
 2. [User Experience](#UX)
 3. [Technologies and Deployment](#Technologies-and-Deployment)
 4. [Summary points of project](#Summary-points-of-project)
+5. [Testing](#Testing)
+6. [Credits](#Credits)
+7. [Acknowledgements](#Acknowledgements)
 
 
 
