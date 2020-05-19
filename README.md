@@ -1,4 +1,4 @@
-# User Centric Front-End Development Milestone Project 1 (Personal Portfolio)
+# User Centric Front-End Development Milestone Project 1 -Online Portfolio
 
 ## Introduction 
 
