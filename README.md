@@ -12,7 +12,7 @@ This is my first ever website and i thought "what a good idea it would be to cre
 
 ## Features 
 
-## Technologies 
+## Technologies and Deployment
 I basically used **everything** that was taught in the videos and nothing more. The following is what technologies were used and also will dicuss how i impletemnted them on making my very first webpage. 
 
 * **HTML & CSS:** I used these languages for the syling of my website. 
@@ -28,7 +28,9 @@ I basically used **everything** that was taught in the videos and nothing more. 
 
 * **Balsamiq:** This gave me a good idea of how i wanted my webpage to look. 
 
-## Summary of Project 
+## Summary Points of Project 
+
+After reviewing myself below are some key points of my success in completing the project, i feel the main two points were keeping thing simple by copying and pasting within my document and consitency within the document.  
 
 * I created the basic sturcture within the HTML document by using **!TAB**. I then copied the **CDN links** from BootStrap and created link tags within the head of the document and pasted in the appropriate place.
 
