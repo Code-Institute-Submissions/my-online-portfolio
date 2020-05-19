@@ -4,8 +4,8 @@
 
 # Table of Contents
 
-1. [Introduction]
-2. [My second title](#my-second-title)
+1. [Introduction](#my-first-title)
+2. [UX](#my-second-title)
 
 
 ## Introduction 
