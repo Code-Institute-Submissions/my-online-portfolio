@@ -56,9 +56,9 @@ After reviewing myself below are some key points of my success in completing the
 ## Testing 
 
 * There are three methods i used to thest my webpage.
-1. **People:**
-2. **Computer/Laptop:**
-3. **Phones/iPad:**
+1. **People:** I know a few people that happen to be recruiters and at the top of their game. I sent them the link to my website and to ask them to play around with the page and tell me how they think it is. 
+2. **Computer/Laptop:** I tested the webpage on an iMAC and Windows Desktop and both seem to have my website working perfectly well. I tryed the laptop that i have been coding on which is a small 11 inch HP Pavilion Laptop  and seems to be working perfectly fine. 
+3. **Phones/iPad:** All the people i had sent it to where iPhone and Android users and all seems to be well there to. 
 
 ## Credits 
 
