@@ -56,9 +56,9 @@ After reviewing myself below are some key points of my success in completing the
 ## Testing 
 
 * There are three methods i used to thest my webpage.
-1.**People:**
-2.**Computer/Laptop:**
-3.**Phones/iPad:**
+1. **People:**
+2. **Computer/Laptop:**
+3. **Phones/iPad:**
 
 ## Credits 
 
