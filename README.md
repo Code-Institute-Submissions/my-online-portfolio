@@ -16,13 +16,11 @@
 
 ## Introduction 
 
-Hi i'm Shuaib, a person who was completely new to coding before meeting with code institute. My goal is to become the best version of myself in anything that i do which includes programming. Whenever i think of coding or programming my mind thinks about silicon valley which in my opinion is the hub of the technology world. I also dream and imagine me working there one day. It all started with me going to America to meet my cousins and when they showed us a tour of Apple and Google. 
-
-I have an engineering background and have been studying engineering ever since i was 17 and now i'm 25. That's 8 years of studying engineering, in that time i have manged to get a few diplomas in engineering and also a degree in Mechanical engineering. A question comes up "why am i looking to change field or industry"? the answer to that is because i have a dream of one day working for a top technology company like Apple, Google or Oracle etc. My goal is to complete this course to the best of my ability and then find my first junior developer role and then build an empire of skills and experience within me to get into a big tech company. My plan is also to stay with code instiute to further my knowlege in app developmet.    
+Hi i'm Shuaib, a person who was completely new to coding before meeting with code institute a few months ago. My **goal is to become the best version of myself in anything that I do which includes programming**. I have an engineering background and have been studying engineering ever since I was seventeen. That's eight years of studying engineering, in that time I have managed to get a few diplomas in engineering and also a degree in Mechanical engineering however, I never actually thought to myslef "what is my plan", to be honest I was just following the failed system of education this country has. A question comes up "why am i looking to change field or industry"? the answer to that is because i have a dream of one day working for a top technology company like Apple, Google or Oracle etc and the world is heading in a direction of technology. My goal is to complete this course to the best of my ability and then find my first junior developer role and then build an empire of skills and experience within me to get into a big tech company. My plan is also to stay with code instiute to further my knowlege in app development.    
 
 ## UX
 
-This is my first ever website and i thought "what a good idea it would be to create my first website as an online portfolio". So this is a webpage that will showcase my skills, my education and my projects to future employers. This website will be updated regularly and improved always depending on the skill level that i'm at. 
+This is my first ever website and I thought "what a good idea it would be to create my first website as an online portfolio". So this is a webpage that will showcase my skills, my education and my projects to future employers. This website will be updated regularly and improved always depending on the skill level that i'm at. 
 
 
 ## Technologies and Deployment
@@ -56,6 +54,11 @@ After reviewing myself below are some key points of my success in completing the
 * Lastly I completed a footer which i got help with from BootStrap.
 
 ## Testing 
+
+* There are three methods i used to thest my webpage.
+1.**People:**
+2.**Computer/Laptop:**
+3.**Phones/iPad:**
 
 ## Credits 
 
