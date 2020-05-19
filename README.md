@@ -6,8 +6,8 @@
 
 1. [Introduction](#Introduction)
 2. [User Experience](#UX)
-3. [Technologies and Deployment](#Technologies and Deployment)
-4. [Summary points of project](#Summary points of project)
+3. [Technologies and Deployment](#Technologies-and-Deployment)
+4. [Summary points of project](#Summary-points-of-project)
 
 
 
