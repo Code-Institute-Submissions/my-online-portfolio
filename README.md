@@ -4,8 +4,11 @@
 
 # Table of Contents
 
-1. [Introduction](#my-first-title)
-2. [UX](#my-second-title)
+1. [Introduction](#Introduction)
+2. [User Experience](#UX)
+3. [Technologies and Deployment](#Technologies and Deployment)
+4. [Summary points of project](#UX)
+
 
 
 ## Introduction 
@@ -16,7 +19,6 @@ Hi i'm Shuaib, a person who was completely new to coding before meeting with cod
 
 This is my first ever website and i thought "what a good idea it would be to create my first website as an online portfolio". So this is a webpage that will showcase my skills, my education and my projects to future employers. This website will be updated regularly and improved always depending on the skill level that i'm at. 
 
-## Features 
 
 ## Technologies and Deployment
 I basically used **everything** that was taught in the videos and nothing more. The following is what technologies were used and also will dicuss how i impletemnted them on making my very first webpage. 
