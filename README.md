@@ -19,5 +19,5 @@ I basically used **everything** that i was taught in the videos and nothing more
 * **JavaScript & BootStrap:** The navigation menu and the hover effects on the project was completed with the help of BootStrap.     JavaScript wasn't used directly, what i mean by this is that the JavaScript i used came directly from BootStrap helping me with the code and not me coding with JavaScript.
 
 * **GitHub:** This was used to store my code in a safe place. The method was simple and easy as taught on the videos. 
-**Step 1** git add . or gitt add <file name> depending on what you want to send. 
+* **Step 1** git add . or gitt add <file name> depending on what you want to send. 
 
