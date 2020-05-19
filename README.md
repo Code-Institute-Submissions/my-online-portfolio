@@ -4,21 +4,11 @@
 
 ## Introduction 
 
-Hi i'm Shuaib, a person who was completely new to coding before meeting with code institute. I has massive goals and will always be a student and is very hardworking. I have an engineering background and have been studying engineering ever since i was 17 and now i'm 25. That's 8 years of studying engineering, in that time i have manged to get a diploma level 2 and 3 in engineering and also a degree in Mechanical engineering. A question comes up "why am i looking to change field or industry"? the answer to that is because i see where the world is going and it's technology. My goal is to complete this course to the best of my ability and then find my first junior developer role and then build to get into a big tech company like Google for example. My plan is also to stay with code instiute to further my knowlege in app developmet.    
+Hi i'm Shuaib, a person who was completely new to coding before meeting with code institute. I have massive goals and will always be a student and will keep learning to acheive being the best version of myself. I have an engineering background and have been studying engineering ever since i was 17 and now i'm 25. That's 8 years of studying engineering, in that time i have manged to get a diploma level 2 and 3 in engineering and also a degree in Mechanical engineering. A question comes up "why am i looking to change field or industry"? the answer to that is because i see where the world is going and it's technology. My goal is to complete this course to the best of my ability and then find my first junior developer role and then build to get into a big tech company like Google for example. My plan is also to stay with code instiute to further my knowlege in app developmet.    
 
 ## UX
 
 This is my first ever website and i thought "what a good idea it would be to create my first website as an online portfolio". So this is a webpage that will showcase my skills, my education and my projects to future employers. This website will be updated regularly and improved always depending on the skill level that i'm at. 
-
-I created the basic sturcture within the HTML document by using **!TAB**. I then copied the **CDN links** from BootStrap and created link tags within the head of the document and pasted in the appropriate place.
-
-I had a meeting with my mentor and we dicussed the layout of my document. I started with the **NAVBAR** and used BootStrap to help me with this.I wanted a scroling webpage because it will be easy to use. I then broke my HTML document into four sections which are my headings **About, Skills, Projects,** and **Contacts**.
-
-From watching a few youtube videos i got an idea of what an online porfolio should look like and started my About me section. I decided to create **class=card** and start styling it with what would look good. I kept the **card** class consistent througout the other sections which made it eaiser because i just copied and pasted. 
-
-Each section had a **ID class** of its section name, first reason was so it would be easy to read and second was of course to syle the ID wthin the CSS document. I kept this consistent as well. 
-
-Lastly I completed a footer which i got help with from BootStrap.
 
 ## Features 
 
@@ -37,6 +27,20 @@ I basically used **everything** that was taught in the videos and nothing more. 
 * **Gitpod:** This is the platform i was intoduced to by Code Institue to code
 
 * **Balsamiq:** This gave me a good idea of how i wanted my webpage to look. 
+
+## Summary of Project 
+
+* I created the basic sturcture within the HTML document by using **!TAB**. I then copied the **CDN links** from BootStrap and created link tags within the head of the document and pasted in the appropriate place.
+
+* I had a meeting with my mentor and we dicussed the layout of my document. I started with the **NAVBAR** and used BootStrap to help me with this.I wanted a scroling webpage because it will be easy to use. I then broke my HTML document into four sections which are my headings **About, Skills, Projects,** and **Contacts**.
+
+* From watching a few youtube videos i got an idea of what an online porfolio should look like and started my About me section. I decided to create **class=card** and start styling it with what would look good. I kept the **card** class consistent througout the other sections which made it eaiser because i just copied and pasted. 
+
+* Each section had a **ID class** of its section name, first reason was so it would be easy to read and second was of course to syle the ID wthin the CSS document. I kept this consistent as well. 
+
+* Lastly I completed a footer which i got help with from BootStrap.
+
+
 
 
 
