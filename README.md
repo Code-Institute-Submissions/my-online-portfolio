@@ -2,6 +2,12 @@
 
 # User Centric Front-End Development Milestone Project 1 -Online Portfolio
 
+# Table of Contents
+
+1. [My first title](#my-first-title)
+2. [My second title](#my-second-title)
+
+
 ## Introduction 
 
 Hi i'm Shuaib, a person who was completely new to coding before meeting with code institute. I have massive goals and will always be a student and will keep learning to acheive being the best version of myself. I have an engineering background and have been studying engineering ever since i was 17 and now i'm 25. That's 8 years of studying engineering, in that time i have manged to get a diploma level 2 and 3 in engineering and also a degree in Mechanical engineering. A question comes up "why am i looking to change field or industry"? the answer to that is because i see where the world is going and it's technology. My goal is to complete this course to the best of my ability and then find my first junior developer role and then build to get into a big tech company like Google for example. My plan is also to stay with code instiute to further my knowlege in app developmet.    
