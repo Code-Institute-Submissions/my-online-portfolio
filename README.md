@@ -42,7 +42,11 @@ After reviewing myself below are some key points of my success in completing the
 
 * Lastly I completed a footer which i got help with from BootStrap.
 
+## Testing 
 
+## Credits 
+
+#### Content 
 
 
 
