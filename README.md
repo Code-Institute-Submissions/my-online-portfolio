@@ -11,6 +11,6 @@ This is my first website and i thought "what a good idea it would be to create m
 
 ## Features 
 
-*HTML
-*CSS
-*BootStrap
+* HTML
+* CSS
+* BootStrap
