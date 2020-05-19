@@ -25,7 +25,7 @@ body {
 }
 
 #about .fa-instagram {
-    color: #fb3958;
+    color: #458eff;
 }
 
 #about .fa-github {
@@ -34,30 +34,31 @@ body {
 
 #about span {
     padding: 10px 20px 10px 20px;
+    background-color: rgb(0, 0, 0);
 }
 
 #about hr {
     border-width: 2px;
-    margin-top: 06px;
+    margin-top: 6px;
 }
 
 #about h1 {
     padding-top: 3%; 
 }
 
-#skills .card {
-    padding-bottom:3%;
+#about .card {
+   background-color: rgb(0, 0, 0); 
 }
 
-skills {
-    background-image: url("../images/program.jpg"); 
-    background-size: 5%;
-    background-repeat: none;
-    min-height: 500px;
-    }
+#skills .card {
+    padding-bottom:3%;
+    background-color: rgb(0, 0, 0);
+}
+
 
 #skills span {
      padding: 10px 20px 10px 20px;
+     background-color: rgb(0, 0, 0);
 }
 
 #skills hr {
@@ -67,6 +68,7 @@ skills {
 
 #projects span {
     padding: 10px 20px 10px 20px;
+    background-color: rgb(0, 0, 0);
 }
 
 #projects hr {
@@ -76,26 +78,68 @@ skills {
 
 #projects .card {
     border-top: 05px;
+    background-color: rgb(0, 0, 0);
    
 }
 
 #projects img {
-    width: 100px;
+    width: 200px;
     height: 100%;
 }
 
-contact {
-    background-image: url("../images/program.jpg"); 
-    background-size: 5%;
-    background-repeat: none;
-    min-height: 500px;
-    }
+#projects a:link {
+  color: green;
+  background-color:transparent;
+  text-decoration: none;
+}
+#projects a:visited {
+  color: rgb(6, 255, 39);
+  background-color: transparent;
+  text-decoration: none;
+}
+#projects a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#projects a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 
 #contact span {
     padding: 10px 20px 10px 20px;
+    background-color: rgb(0, 0, 0);
 }
 
 #contact hr {
     border-width: 2px;
     margin-top:06px;
 }
+
+#contact .card {
+    background-color: rgb(0, 0, 0);
+}
+
+
+#copyright a {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+#copright a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+#copyright a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+#copyright a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
