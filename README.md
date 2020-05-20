@@ -23,7 +23,7 @@ A question comes up "why am i looking to change field or industry?"" the answer 
 
 This is my first ever website and I thought "what a good idea it would be to create my first website as an online portfolio". So this is a webpage that will showcase my skills, my education and my projects to future employers. This website will be updated regularly and improved always depending on the skill level that i'm at. 
 
-When you first enter the webpage you probabbly would be thinking **"Why is there a gap between the NavBar and the About me section?"**. This was done so it will come out nice on all types of technology devices. Following on, I want to show the employer who I am by adding a picture and a few social links to get more info. Just under that as you gently scroll there is a about me section where i talk about myself a bit. Then comes the skills i have in terms of my cosing languages and staright after that is the projects that i have acomplished and some that i hopefully will acomplish.   
+When you first enter the webpage you probabbly would be thinking **"Why is there a gap between the NavBar and the About me section?"**. This was done so it will come out nice on all types of technology devices. Following on, I want to show the employer who I am by adding a picture and a few social links to get more info. Just under that as you gently scroll there is an about me section where i talk about myself a bit. Then comes the skills i have in terms of my coding languages, i used green, orange and red to signify the skill level that im at and gave each a percentage. This will give the employer a idea of what stage im currently at at my coding level. Straight after there is the projects that i have acomplished and some that i hopefully will acomplish.   
 
 
 ## Technologies and Deployment
@@ -59,7 +59,7 @@ After reviewing myself below are some key points of my success in completing the
 ## Testing 
 
 * There are three methods i used to thest my webpage.
-1. **People:** I know a few people that happen to be recruiters and at the top of their game. I sent them the link to my website and to ask them to play around with the page and tell me how they think it is. 
+1. **People:** I know a few people that happen to be recruiters and at the top of their game. I sent them the link to my website and to ask them to play around with the page and tell me how they think it is. I hve also sent my webste on slack in the peer-review section, I have gotten replies about my grammer which i have fixed other than that i got a reply saying all the links seem to be working and its a nice website. 
 2. **Computer/Laptop:** I tested the webpage on an iMAC and Windows Desktop and both seem to have my website working perfectly well. I tryed the laptop that i have been coding on which is a small 11 inch HP Pavilion Laptop  and seems to be working perfectly fine. 
 3. **Phones/iPad:** All the people i had sent it to where iPhone and Android users and all seems to be well there to. 
 
