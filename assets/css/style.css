@@ -126,6 +126,7 @@ body {
 #projects h3 {
     text-align: center;
     padding-top: 0%;
+    color:white;
 }
 
 #projects p {
@@ -155,6 +156,7 @@ body {
   text-decoration: underline;
 }
 
+                               /*---------------Contacts-----------------*/
 
 #contact span {
     padding: 10px 20px 10px 20px;
