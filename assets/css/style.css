@@ -1,15 +1,14 @@
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: black;
-
-#header a:hover {
-    color: #ccc;
 }
+
 
 #header nav {
     background-color: rgb(84, 85, 180);
 }
+
+                               /*---------------About-----------------*/
 
 #about {
     margin-top: 20%;
@@ -28,13 +27,18 @@ body {
     color: #458eff;
 }
 
+#about a:hover {
+    color: #ffffff;
+}
+
 #about .fa-github {
     color: white;
 }
 
 #about span {
     padding: 10px 20px 10px 20px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(84, 85, 180);
+    color: white;
 }
 
 #about hr {
@@ -42,47 +46,73 @@ body {
     margin-top: 6px;
 }
 
+#about .card-title {
+    color: white;
+    text-align: center
+}
+
 #about h1 {
     padding-top: 3%; 
+    color: white;
 }
 
 #about .card {
-   background-color: rgb(0, 0, 0); 
+   background-color: rgb(84, 85, 180); 
 }
 
-#aboutdata p {
-    font-size: 9px;
+#about p {
+    font-size: 15px;
+    color:black;
+    text-align: center;
+}
+
+#about img {
+    width: 40%;
+    height: 40%;
+}
+                               /*---------------Skills-----------------*/
+
+#skills {
+    margin-top: 2%;
 }
 
 #skills .card {
     padding-bottom:4%;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(84, 85, 180);
 }
 
 
 #skills span {
      padding: 10px 20px 10px 20px;
-     background-color: rgb(0, 0, 0);
+     background-color: rgb(84, 85, 180);
+     color: white;
 }
 
 #skills hr {
     border-width: 2px;
-    margin-top:06px;
+    margin-top: 6px;
 }
 
+#skills h3 {
+    margin-left: 1.5%;
+    margin-top:  1.5%;
+    color: white;
+}
+                                /*---------------Projects-----------------*/
 #projects span {
     padding: 10px 20px 10px 20px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(84, 85, 180);
+    color: white;
 }
 
 #projects hr {
     border-width:2px;
-    margin-top:06px;
+    margin-top: 6px;
 }
 
 #projects .card {
     border-top: 5px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(84, 85, 180);
     padding-bottom: 5%;
     padding-top: 5%;
     height: 100%;
@@ -91,6 +121,17 @@ body {
 #projects img {
     width:200px;
     
+}
+
+#projects h3 {
+    text-align: center;
+    padding-top: 0%;
+}
+
+#projects p {
+    text-align: center;
+    padding: 2%;
+    color: white;
 }
 
 #projects a:link {
@@ -117,19 +158,27 @@ body {
 
 #contact span {
     padding: 10px 20px 10px 20px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(84, 85, 180);
+    color: white;
 }
 
 #contact hr {
     border-width: 2px;
-    margin-top:06px;
+    margin-top: 6px;
 }
 
 #contact .card {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(84, 85, 180);
 }
 
+#contact h4 {
+    padding-top: 1.5%;
+    padding-left: 1.5%;
+    padding-bottom: 1.5%;
+    color: white;
+}
 
+                                                  /*---------------Footer-----------------*/
 #copyright a {
   color: green;
   background-color: transparent;
@@ -149,3 +198,4 @@ body {
   color: yellow;
   background-color: transparent;
   text-decoration: underline;
+}
