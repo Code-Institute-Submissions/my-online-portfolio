@@ -27,7 +27,7 @@ When you first enter the webpage you probabbly would be thinking **"Why is there
 
 
 ## Technologies and Deployment
-I basically used **everything** that was taught in the videos and nothing more. The following is what technologies were used and also will dicuss how i impletemnted them on making my very first webpage. 
+I basically used **everything** that was taught in the videos and nothing more. The following is what technologies were used and also will dicuss how i implemented them on making my very first webpage. 
 
 * **HTML & CSS:** I used these languages for the syling of my website. 
 * **JavaScript & BootStrap:** The navigation menu and the hover effects on the project was completed with the help of BootStrap.     JavaScript wasn't used directly, what i mean by this is that the JavaScript i used came directly from me copying BootStrap  and not me coding with JavaScript.
