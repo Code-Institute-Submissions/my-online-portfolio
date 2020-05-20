@@ -1,39 +1,81 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome Shuaib Azam,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+# User Centric Front-End Development Milestone Project 1 -Online Portfolio
 
-## Gitpod Reminders
+# Table of Contents
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+1. [Introduction](#Introduction)
+2. [User Experience](#UX)
+3. [Technologies and Deployment](#Technologies-and-Deployment)
+4. [Summary points of project](#Summary-points-of-project)
+5. [Testing](#Testing)
+6. [Credits](#Credits)
+7. [Acknowledgements](#Acknowledgements)
 
-`python3 -m http.server`
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+## Introduction 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Hi i'm Shuaib, a person who was completely new to coding before meeting with code institute a few months ago. My **goal is to become the best version of myself in anything that I do which includes programming**. I have an engineering background and have been studying engineering ever since I was seventeen. That's eight years of studying engineering, in that time I have managed to get a few diplomas in engineering and also a degree in Mechanical engineering however, I never actually thought to myslef "what is my plan", to be honest I was just following the failed system of education this country has. A question comes up "why am i looking to change field or industry"? the answer to that is because i have a dream of one day working for a top technology company like Apple, Google or Oracle etc and the world is heading in a direction of technology. My goal is to complete this course to the best of my ability and then find my first junior developer role and then build an empire of skills and experience within me to get into a big tech company. My plan is also to stay with code instiute to further my knowlege in app development.    
 
-A blue button should appear to click: *Make Public*,
+## UX
 
-Another blue button should appear to click: *Open Browser*.
+This is my first ever website and I thought "what a good idea it would be to create my first website as an online portfolio". So this is a webpage that will showcase my skills, my education and my projects to future employers. This website will be updated regularly and improved always depending on the skill level that i'm at. 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
 
-## Updates Since The Instructional Video
+## Technologies and Deployment
+I basically used **everything** that was taught in the videos and nothing more. The following is what technologies were used and also will dicuss how i impletemnted them on making my very first webpage. 
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+* **HTML & CSS:** I used these languages for the syling of my website. 
+* **JavaScript & BootStrap:** The navigation menu and the hover effects on the project was completed with the help of BootStrap.     JavaScript wasn't used directly, what i mean by this is that the JavaScript i used came directly from me copying BootStrap  and not me coding with JavaScript.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+* **GitHub:** This is used to store my code in a safe place. The method is simple and easy. 
+    1. **git add . or gitt add (file name)** depending on what you want to send. 
+    2. **git commit -m "intial code"** (for example), within the speech marks i normally type what i needed to do and what i have completed to that point.
+    3. **git push** is to send the files into the repository which is stored in the safe place on **GitHub**
+    4. **git status** is to identify what changes have been made.
+    
+* **Gitpod:** This is the platform i was intoduced to by Code Institue to code
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+* **Balsamiq:** This gave me a good idea of how i wanted my webpage to look. 
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Summary Points of Project 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+After reviewing myself below are some key points of my success in completing the project, i feel the main two points were keeping thing simple by copying and pasting within my document and consitency within the document.  
 
---------
+* I created the basic sturcture within the HTML document by using **!TAB**. I then copied the **CDN links** from BootStrap and created link tags within the head of the document and pasted in the appropriate place.
 
-Happy coding!
+* I had a meeting with my mentor and we dicussed the layout of my document. I started with the **NAVBAR** and used BootStrap to help me with this.I wanted a scroling webpage because it will be easy to use. I then broke my HTML document into four sections which are my headings **About, Skills, Projects,** and **Contacts**.
+
+* From watching a few youtube videos i got an idea of what an online porfolio should look like and started my About me section. I decided to create **class=card** and start styling it with what would look good. I kept the **card** class consistent througout the other sections which made it eaiser because i just copied and pasted. 
+
+* Each section had a **ID class** of its section name, first reason was so it would be easy to read and second was of course to syle the ID wthin the CSS document. I kept this consistent as well. 
+
+* Lastly I completed a footer which i got help with from BootStrap.
+
+## Testing 
+
+* There are three methods i used to thest my webpage.
+1. **People:** I know a few people that happen to be recruiters and at the top of their game. I sent them the link to my website and to ask them to play around with the page and tell me how they think it is. 
+2. **Computer/Laptop:** I tested the webpage on an iMAC and Windows Desktop and both seem to have my website working perfectly well. I tryed the laptop that i have been coding on which is a small 11 inch HP Pavilion Laptop  and seems to be working perfectly fine. 
+3. **Phones/iPad:** All the people i had sent it to where iPhone and Android users and all seems to be well there to. 
+
+## Credits 
+
+#### Content 
+
+* The layout wasn't copied but is similar to the one in this youtube clip however the text is diffrent. 
+https://www.youtube.com/watch?v=ngcRor6TQRw&t=2781s
+
+* I copied the NAVBAR from BootStrap, however i changed the position.
+https://getbootstrap.com/docs/4.0/components/navbar/
+
+* I copied the footer from BootStrap 
+https://mdbootstrap.com/docs/jquery/navigation/footer/
+
+## Acknowledgements
+
+* I kept my motivation up by watching this entrepreneur, his name is GrayVee.
+https://www.youtube.com/watch?v=ThNAzk43x0g&t=4s
+
+
