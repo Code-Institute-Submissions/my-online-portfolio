@@ -1,6 +1,7 @@
 
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: whitesmoke;
 }
 
 
@@ -8,23 +9,18 @@ body {
     background-color: rgb(84, 85, 180);
 }
 
+#header a:hover {
+    color: white;
+}
                                /*---------------About-----------------*/
 
 #about {
     margin-top: 20%;
 }
 
-
-#about .fa-facebook {
-    color: #3b5998;
-}
-
-#about .fa-linkedin {
-    color: #0072b1;
-}
-
-#about .fa-instagram {
-    color: #458eff;
+#about a i {
+    color: white;
+    margin-left:1.5%;
 }
 
 #about a:hover {
@@ -57,13 +53,12 @@ body {
 }
 
 #about .card {
-   background-color: rgb(84, 85, 180); 
+   background-color: rgb(84, 85, 180);
 }
 
 #about p {
     font-size: 15px;
     color:black;
-    text-align: center;
 }
 
 #about img {
@@ -146,7 +141,7 @@ body {
   text-decoration: none;
 }
 #projects a:hover {
-  color: red;
+  color: white;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -192,7 +187,7 @@ body {
   text-decoration: none;
 }
 #copyright a:hover {
-  color: red;
+  color:green;
   background-color: transparent;
   text-decoration: underline;
 }
