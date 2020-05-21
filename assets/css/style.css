@@ -106,17 +106,18 @@ body {
     margin-top: 6px;
 }
 
+#projects .col-lg-6 {
+    padding: 2%;
+}
+
 #projects .card {
     border-top: 5px;
     background-color: rgb(84, 85, 180);
     padding-bottom: 5%;
     padding-top: 5%;
-    height: 90%;
+    height: 100%;
 }
 
-#codecard {
-    margin-top: -10%;
-}
 
 #projects img {
     width: 100px;
