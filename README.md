@@ -37,8 +37,10 @@ I basically used **everything** that was taught in the videos and nothing more. 
     2. **git commit -m "intial code"** (for example), within the speech marks i normally type what i needed to do and what i have completed to that point.
     3. **git push** is to send the files into the repository which is stored in the safe place on **GitHub**
     4. **git status** is to identify what changes have been made.
+https://github.com/Shazam1995/my-online-portfolio
     
 * **Gitpod:** This is the platform i was intoduced to by Code Institue to code
+https://www.gitpod.io/
 
 * **Balsamiq:** This gave me a good idea of how i wanted my webpage to look. 
 
@@ -67,13 +69,13 @@ After reviewing myself below are some key points of my success in completing the
 
 #### Content 
 
-* The layout wasn't copied but is similar to the one in this youtube clip however the text is diffrent. 
+* The layout inspired me and is similar to the one in this youtube clip however the text is diffrent. 
 https://www.youtube.com/watch?v=ngcRor6TQRw&t=2781s
 
-* I copied the NAVBAR from BootStrap, however i changed the position.
+* I got inpsired by the NAVBAR from BootStrap, however i changed the position.
 https://getbootstrap.com/docs/4.0/components/navbar/
 
-* I copied the footer from BootStrap 
+* I got inspired by the footer from BootStrap 
 https://mdbootstrap.com/docs/jquery/navigation/footer/
 
 ## Acknowledgements
