@@ -10,7 +10,6 @@
 4. [Summary points of project](#Summary-points-of-project)
 5. [Testing](#Testing)
 6. [Credits](#Credits)
-7. [Acknowledgements](#Acknowledgements)
 
 
 
@@ -60,7 +59,7 @@ After reviewing myself below are some key points of my success in completing the
 
 ## Testing 
 
-* There are three methods i used to thest my webpage.
+* There are three methods i used to test my webpage.
 1. **People:** I know a few people that happen to be recruiters and at the top of their game. I sent them the link to my website and to ask them to play around with the page and tell me how they think it is. I hve also sent my webste on slack in the peer-review section, I have gotten replies about my grammer which i have fixed other than that i got a reply saying all the links seem to be working and its a nice website. 
 2. **Computer/Laptop:** I tested the webpage on an iMAC and Windows Desktop and both seem to have my website working perfectly well. I tryed the laptop that i have been coding on which is a small 11 inch HP Pavilion Laptop  and seems to be working perfectly fine. 
 3. **Phones/iPad:** All the people i had sent it to where iPhone and Android users and all seems to be well there to. 
@@ -77,10 +76,5 @@ https://getbootstrap.com/docs/4.0/components/navbar/
 
 * I got inspired by the footer from BootStrap 
 https://mdbootstrap.com/docs/jquery/navigation/footer/
-
-## Acknowledgements
-
-* I kept my motivation up by watching this entrepreneur, his name is GrayVee.
-https://www.youtube.com/watch?v=ThNAzk43x0g&t=4s
 
 
